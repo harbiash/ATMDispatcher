@@ -1,0 +1,16 @@
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\Console.ATMDispatcher.exe
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\Console.ATMDispatcher.deps.json
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\Console.ATMDispatcher.runtimeconfig.json
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\Console.ATMDispatcher.runtimeconfig.dev.json
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\Console.ATMDispatcher.dll
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\ref\Console.ATMDispatcher.dll
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\bin\Debug\net5.0\Console.ATMDispatcher.pdb
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.csproj.AssemblyReference.cache
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.AssemblyInfoInputs.cache
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.AssemblyInfo.cs
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.csproj.CoreCompileInputs.cache
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.dll
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\ref\Console.ATMDispatcher.dll
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.pdb
+C:\Users\arbia\source\repos\Console.ATMDispatcher\Console.ATMDispatcher\obj\Debug\net5.0\Console.ATMDispatcher.genruntimeconfig.cache
